@@ -4,6 +4,7 @@
     "./.gitignore": [
         "+K/4XGP2Peb5jWR7nzmpli9QQT/NXtwbXHyE3BnTHOEAdwTiRpmD0k++rjO/416VXZCr7l+3j3X8YUhN+Ku0MA=="
     ], 
+    "./.landscape.yml": [], 
     "./.travis.yml": [
         "FwsLpNILgu0mkWukmpkwVWxkt5nAnuz45ke0hSZ+5+PXxmxNhghqkyr5E57KHiUdCX6bB+eHu4zKw/+ORilIiw=="
     ], 
@@ -17,7 +18,7 @@
         "YTUhuNoVK2IXgwJI+cP4BUzbgzMOnHhc40N8Q9cw1rJVtKJq8xlQNaYwxt2Y8p+scpKOU4S445VaPOqWsEF6+Q=="
     ], 
     "./README.rst": [
-        "tgK7H51Ectlo5mcC2LquN3Hkhs7alcgwdLP5mDdRt0LbBFq+ui6qYqSax5lHOKP3Z6pKFrzXmuD+5cIFk9A9ZQ=="
+        "FrSXg/wa413qMLhkuLaTP1jp46t4ISVJRiVuAc+02RCbpzCO1UFpZ3w7iHXbmCUi5FbF2UE5pEKc8vUqem4aUg=="
     ], 
     "./doc/Makefile": [
         "fCpQbGBjkltJc0kS1o3WrQeqpsOzMhUa8FlGTCab3LI4yYuTq7VnoQHXV7clRKyfu2105FRS7JfCEoePiVkMpQ=="
@@ -48,13 +49,13 @@
     "./doc/readme.rst": [], 
     "./doc/usage.rst": [], 
     "./dvlpt_requirements.txt": [
-        "5VCiwJ35q+LLd9W2JFPFipXJTuG9EpLagqIG+TSQpa1HIIxuXROEkS+NVl6HRLlMYznq+m2HhRXBdCsrzAqI3g=="
+        "PJKp3evhpR80ed54hM9o073+5Hf0goc9Og3YRbGvyzmyW7UoN1OzYI2MBcNNuYirQdtnspVygDRPtBz+ea4C7g=="
     ], 
     "./requirements.txt": [
         "AWuoxM/eZa+Zy1+ouKN+Lrc/SBs640mRZm3y4E/rbAOGZuvR7CtvYjlndWAzxwLd5fQj99R6tu0YJ/9TeDcx9w=="
     ], 
     "./setup.cfg": [
-        "VzFP4jlQPxtTc9HcSfsYOlhRbkg7SQtpymlFqgqiqMlKGsnpXWSJeMaqUk4G3z1uYMRzK0W3cOfsbkcCgmt88w=="
+        "4U98ZG/sQTwgaXcSuef26l7Of+y9PrwgEI1c9oT5jdlg/GWfFmEMc54udECv92c37VYeyvSjS01Ws1sUYXaaEg=="
     ], 
     "./setup.py": [
         "w1j7kH8/SKWTb4xyYoib+QdCK0tFWqkWIvspsJ2bJxrjzW2xlHjlOutZsYrRHdXwDfx1C/h0dB7Qjw+TmUYUYA==", 

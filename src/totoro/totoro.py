@@ -1,6 +1,8 @@
 def jump_in_rain(height):
     """Compute number of droplets when Totoro jumps.
 
+    __plugin__: node
+
     Args:
         height: (float) altitude reached by totoro
 

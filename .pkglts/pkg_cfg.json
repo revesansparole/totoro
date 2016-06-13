@@ -15,9 +15,11 @@
         "description": "belle petite description", 
         "keywords": []
     }, 
+    "flake8": {}, 
     "github": {
         "project": "{{key, base.pkgname}}"
     }, 
+    "landscape": {}, 
     "license": {
         "name": "cecill-c", 
         "organization": "organization", 
@@ -30,6 +32,9 @@
         "intended_versions": [
             "27"
         ]
+    }, 
+    "readthedocs": {
+        "project": "{{key, github.project}}"
     }, 
     "sphinx": {
         "theme": "default"

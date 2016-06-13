@@ -1,0 +1,22 @@
+{
+  "function": "totoro.totoro:jump_in_rain", 
+  "inputs": [
+    {
+      "interface": "float", 
+      "description": "altitude reached by totoro", 
+      "name": "height"
+    }
+  ], 
+  "description": "Compute number of droplets when Totoro jumps.\n\n    __plugin__: node\n\n    Args:\n        height: (float) altitude reached by totoro\n\n    Returns:\n        (int) number of droplets\n    ", 
+  "author": "unknown", 
+  "outputs": [
+    {
+      "interface": "int", 
+      "description": "number of droplets", 
+      "name": "ret"
+    }
+  ], 
+  "version": 0, 
+  "id": "4d39eccf0e1611e693ee308d99c16f56", 
+  "name": "jump_in_rain"
+}
