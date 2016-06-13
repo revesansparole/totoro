@@ -4,6 +4,9 @@
     "./.gitignore": [
         "+K/4XGP2Peb5jWR7nzmpli9QQT/NXtwbXHyE3BnTHOEAdwTiRpmD0k++rjO/416VXZCr7l+3j3X8YUhN+Ku0MA=="
     ], 
+    "./.travis.yml": [
+        "FwsLpNILgu0mkWukmpkwVWxkt5nAnuz45ke0hSZ+5+PXxmxNhghqkyr5E57KHiUdCX6bB+eHu4zKw/+ORilIiw=="
+    ], 
     "./AUTHORS.rst": [], 
     "./CONTRIBUTING.rst": [], 
     "./HISTORY.rst": [], 
@@ -14,7 +17,7 @@
         "YTUhuNoVK2IXgwJI+cP4BUzbgzMOnHhc40N8Q9cw1rJVtKJq8xlQNaYwxt2Y8p+scpKOU4S445VaPOqWsEF6+Q=="
     ], 
     "./README.rst": [
-        "NpInImcdK7HQFLVdzLlDEZbA9uAEZaKM6lTCUCfQi5aOf93nTfnCh9DJp9Dr0ZWsxXLXTQrH3g+rbgh7kRECnA=="
+        "tgK7H51Ectlo5mcC2LquN3Hkhs7alcgwdLP5mDdRt0LbBFq+ui6qYqSax5lHOKP3Z6pKFrzXmuD+5cIFk9A9ZQ=="
     ], 
     "./doc/Makefile": [
         "fCpQbGBjkltJc0kS1o3WrQeqpsOzMhUa8FlGTCab3LI4yYuTq7VnoQHXV7clRKyfu2105FRS7JfCEoePiVkMpQ=="
